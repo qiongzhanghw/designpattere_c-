@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1482852742 source:d:\codeblockcode\designparten\abstractfactorypattern\main.cpp
+	<iostream>
+	"abstractfactory.h"
+
+1483020689 d:\codeblockcode\designparten\abstractfactorypattern\abstractfactory.h
+	<iostream>
+	<time.h>
+
+1483020587 source:d:\codeblockcode\designparten\abstractfactorypattern\abstractfactory.cpp
+	"abstractfactory.h"
+
