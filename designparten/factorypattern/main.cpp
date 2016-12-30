@@ -9,6 +9,7 @@ public:
    AabstractProduct()
    {
    }
+
    ~AabstractProduct()
    {
    }
