@@ -91,7 +91,7 @@ int main()
 
     SearchInfoVisit* searvisitcomplex = new SearchInfoVisit();
 
-    /* 设置要显示的视图35<=年龄<=40,17<=职级<=20, 30000<工资<100000 */
+    /* 设置要显示的视图(35<=年龄<=40),(17<=职级<=20), (30000<工资<100000) */
     searvisitcomplex->SetAgeCondition(40, 35, COMPARE_UP_EQUAL_AND_LITTER, COMPARE_DOWN_EQUAL_AND_LARGERR);
     searvisitcomplex->SetRankCondition(20, 17, COMPARE_UP_EQUAL_AND_LITTER, COMPARE_DOWN_EQUAL_AND_LARGERR);
     searvisitcomplex->SetSalaryCondition(100000, 30000, COMPARE_UP_EQUAL_AND_LITTER, COMPARE_DOWN_EQUAL_AND_LARGERR);
