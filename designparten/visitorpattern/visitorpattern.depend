@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1483368281 source:d:\codeblockcode\designparten\ visitorpattern\main.cpp
+	"vistorpattern.h"
+	<list>
+
+1483369093 d:\codeblockcode\designparten\ visitorpattern\vistorpattern.h
+	<iostream>
+
+1483367078 source:d:\codeblockcode\designparten\ visitorpattern\visitorpattern.cpp
+	<sstream>
+	"vistorpattern.h"
+
