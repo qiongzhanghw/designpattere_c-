@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1483625327 source:d:\codeblockcode\designparten\builderpattern\builderpattern.cpp
+	"builderpattern.h"
+
+1483624979 d:\codeblockcode\designparten\builderpattern\builderpattern.h
+	<iostream>
+	<list>
+
+1483542200 source:d:\codeblockcode\designparten\builderpattern\main.cpp
+	"builderpattern.h"
+
