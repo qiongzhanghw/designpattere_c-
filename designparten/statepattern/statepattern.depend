@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1483797908 source:d:\codeblockcode\designparten\statepattern\main.cpp
+	"statepattern.h"
+
+1483797659 d:\codeblockcode\designparten\statepattern\statepattern.h
+	<iostream>
+
+1483797723 source:d:\codeblockcode\designparten\statepattern\statepattern.cpp
+	"statepattern.h"
+
