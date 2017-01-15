@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1484110041 source:d:\codeblockcode\designparten\commandpattern\commandpattern.cpp
+	"commandpattern.h"
+
+1484108567 d:\codeblockcode\designparten\commandpattern\commandpattern.h
+	<iostream>
+	<typeinfo>
+	<map>
+
+1484109908 source:d:\codeblockcode\designparten\commandpattern\main.cpp
+	"commandpattern.h"
+
